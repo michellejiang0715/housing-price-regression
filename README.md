@@ -1,6 +1,6 @@
 # Housing price regression
 
-A scikit-learn regression project extending the assigned housing notebook. Only actually submitted versions are documented.
+A scikit learn regression project that extends the assigned housing notebook
 
 ## Files
 
