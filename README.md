@@ -21,7 +21,7 @@ Start with the assigned OverallQual example, then add imputation, ordinal and on
 | Submission | Kaggle RMSE |
 | --- | ---: |
 | Original Ridge | 161,049.15525 |
-| Improved tree blend — final selected model | **36,105.15526** |
+| Improved tree blend aka final selected model | **36,105.15526** |
 | V4 regression blend | 59,376.14456 |
 
 The later V4 model had lower validation RMSE but worse Kaggle performance. We retained the best confirmed Kaggle submission. Rare extreme houses, repeated model comparisons, and differences between validation and leaderboard samples limit how accurately validation predicts Kaggle results.
