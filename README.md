@@ -1,4 +1,4 @@
-# Housing price regression
+# Housing price regression by Michelle Jiang and Cici Meng
 
 A scikit learn regression project that extends the assigned housing notebook
 
