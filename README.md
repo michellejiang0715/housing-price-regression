@@ -1,6 +1,7 @@
 # Housing price regression by Michelle Jiang and Cici Meng
 
-A scikit learn regression project that extends the assigned housing notebook
+A scikit learn regression project that extends the assigned housing notebook. This project uses housing data to build a regression model that predicts sale prices. Us as a team, we explored how features such as overall quality, square footage, etc. relates to a home’s value. We used the training data to build and evaluate models before predicting prices for the test houses and submitting our results to Kaggle.
+We started with a simple linear regression model using only overall quality. From there, we added more features and converted categorical variables into a format the models could use. We organized these steps into scikitlearn pipelines and used cross validation to compare models by (RMSE).
 
 ## Files
 
