@@ -12,7 +12,7 @@ A scikit learn regression project that extends the assigned housing notebook
 
 ## Run
 
-Install dependencies using `pip install -r requirements.txt`, then open the notebook in Jupyter or Google Colab. Download the updated competition files and put `train.csv`, `test.csv`, and `sample_soln.csv` in the notebook folder (upload through the Files sidebar in Colab). Run all cells; comparison takes several minutes. The final cell writes `submission_improved.csv` with columns `Id,SalePrice`. Competition data and `solns.csv` are not included.
+Install dependencies using `pip install -r requirements.txt`, then open the notebook in Jupyter or Google Colab. Download the updated competition files and put `train.csv`, `test.csv`, and `sample_soln.csv` in the notebook folder (upload through the Files sidebar in Colab). Run all cells; comparison takes several minutes. The final cell writes `submission_improved.csv` with columns `Id,SalePrice`.
 
 ## Process and submitted results
 
